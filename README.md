@@ -7,5 +7,3 @@ Welcome to Building Tales 2! With mods such as AgriTech, Macaw's Furniture, and 
 I want to give credit to [MaTik](https://www.curseforge.com/members/matik/projects) for allowing the use of [Farmer GUI](https://www.curseforge.com/minecraft/texture-packs/farmergui) in the pack!
 
 [![](https://www.bisecthosting.com/images/CF/Building_Tales_2/BH_Building_Tales_2_discord.webp)](https://discord.gg/wxkZuEbGrM) [![](https://www.bisecthosting.com/images/CF/Building_Tales_2/BH_Building_Tales_2_youtube.webp)](https://www.youtube.com/@tralty) [![](https://www.bisecthosting.com/images/CF/Building_Tales_2/BH_Building_Tales_2_kofi.webp)](https://ko-fi.com/tralty)
-
-[![](https://www.bisecthosting.com/images/CF/Building_Tales_2/BH_Building_Tales_2_promo2.webp)](https://tinyurl.com/tralty)
